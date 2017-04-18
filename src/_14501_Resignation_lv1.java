@@ -16,6 +16,7 @@ output
 90
  */
 
+//TODO: graph말고 그냥 dp로도 쉽게 풀 수 있다. 그걸로 다시 한번 풀어보기
 import java.util.Scanner;
 
 public class _14501_Resignation_lv1 {
